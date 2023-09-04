@@ -42,7 +42,7 @@ A:: Matches a single white space character, including various space-related char
 For example, `/\s\w*/` matches " bar" in "foo bar".
 
 Q:: What does `\S` represent in regular expressions?  
-A:: Matches a single character other than white space, excluding space-related characters and Unicode spaces.
+A:: Matches a single character other than white space, excluding space-related characters and Unicode spaces.  
 For example, `/\S\w*/` matches "foo" in "foo bar".
 
 Q:: What does `\t` represent in regular expressions?  
@@ -78,7 +78,7 @@ A:: (Only when the `u` flag is set.) Matches the character with the Unicode valu
 
 Q:: What does ` \ ` indicate in regular expressions?  
 A:: Indicates that the following character should be treated specially or "escaped."  
-For example, `/b/` matches the character "b". By placing a backslash in front of "b", that is by using `/\b/`, the character becomes special to mean match a word boundary.
+For example, `/b/` matches the character "b". By placing a backslash in front of "b", that is by using `/\b/`, the character becomes special to mean match a word boundary.  
 > **Note:** To match this character literally, escape it with itself. In other words to search for ` \ ` use `/\\/`.
 
 Q:: What is the purpose of a disjunction `|` in regular expressions?  
@@ -114,7 +114,7 @@ For example, `/\Bon/` matches "on" in "at noon", and `/ye\B/` matches "ye" in "p
 Q:: What does `x(?=y)` represent in regular expressions?  
 A:: Lookahead assertion. Matches "x" only if "x" is followed by "y."  
 For example, /`Jack(?=Sprat)/` matches "Jack" only if it is followed by "Sprat".  
-`/Jack(?=Sprat|Frost)/` matches "Jack" only if it is followed by "Sprat" or "Frost". However, neither "Sprat" nor "Frost" is part of the match results.
+`/Jack(?=Sprat|Frost)/` matches "Jack" only if it is followed by "Sprat" or "Frost". However, neither "Sprat" nor "Frost" is part of the match results.  
 > **Note:** The `?` character may also be used as a quantifier.
 
 Q:: What does `x(?!y)` represent in regular expressions?  
