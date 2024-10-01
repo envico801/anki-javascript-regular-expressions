@@ -4,8 +4,7 @@
 
 ========== Answer ==========  
 
-A negated character class. Matches any single character not listed in the
-brackets.
+A negated character class. Matches any single character not listed in the brackets.
 
 Example: `[^aeiou]` matches any non-vowel in "hello" (h, l, l).
 
