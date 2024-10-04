@@ -6,7 +6,7 @@
 
 Greedily matches everything between the first '<' and the last '>' in a string.
 
-Example: `/<.*>/` matches "<foo><bar>" in "start <foo><bar> end".
+**Example**: `/<.*>/` matches "`<foo><bar>`" in "start `<foo><bar>` end".
 
 ========== Id ==========  
 45

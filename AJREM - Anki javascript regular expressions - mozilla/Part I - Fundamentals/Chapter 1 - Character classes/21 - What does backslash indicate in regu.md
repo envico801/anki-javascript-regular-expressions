@@ -6,7 +6,7 @@
 
 Escapes a special character or introduces a special sequence.
 
-Example: `\.` matches a literal dot, while `.` matches any character.
+**Example**: `\.` matches a literal dot, while `.` matches any character.
 
 ========== Id ==========  
 21

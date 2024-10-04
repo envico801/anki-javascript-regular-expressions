@@ -6,7 +6,7 @@
 
 Matches any non-word character.
 
-Example: `\W+` matches "!@#" in "abc!@#123".
+**Example**: `\W+` matches "!@#" in "abc!@#123".
 
 ========== Id ==========  
 8

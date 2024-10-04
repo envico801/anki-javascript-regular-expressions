@@ -6,7 +6,7 @@
 
 Matches exactly 'n' occurrences of 'x'.
 
-Example: `a{3}` matches "aaa" in "baaaam", but not "aa" or "aaaa".
+**Example**: `a{3}` matches "aaa" in "baaaam", but not "aa" or "aaaa".
 
 ========== Id ==========  
 41

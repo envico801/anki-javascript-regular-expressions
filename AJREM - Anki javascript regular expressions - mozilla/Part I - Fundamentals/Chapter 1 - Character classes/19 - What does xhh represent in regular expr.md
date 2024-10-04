@@ -6,7 +6,7 @@
 
 Matches a character with the hex code hh (two hex digits).
 
-Example: `\x41` matches "A" (ASCII code 41 in hex).
+**Example**: `\x41` matches "A" (ASCII code 41 in hex).
 
 ========== Id ==========  
 19

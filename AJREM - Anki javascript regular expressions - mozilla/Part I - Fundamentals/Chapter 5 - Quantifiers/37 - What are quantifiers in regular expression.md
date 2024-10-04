@@ -6,7 +6,7 @@
 
 Symbols that specify how many times a pattern should match.
 
-Example: `*`, `+`, `?`, and `{n,m}` are common quantifiers.
+**Example**: `*`, `+`, `?`, and `{n,m}` are common quantifiers.
 
 ========== Id ==========  
 37

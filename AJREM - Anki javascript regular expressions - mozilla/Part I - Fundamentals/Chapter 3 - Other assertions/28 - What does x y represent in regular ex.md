@@ -6,7 +6,7 @@
 
 Positive lookahead. Matches 'x' only if it's followed by 'y'.
 
-Example: `Jack(?=Sprat)` matches "Jack" in "JackSprat" but not in "JackFrost".
+**Example**: `Jack(?=Sprat)` matches "Jack" in "JackSprat" but not in "JackFrost".
 
 ========== Id ==========  
 28

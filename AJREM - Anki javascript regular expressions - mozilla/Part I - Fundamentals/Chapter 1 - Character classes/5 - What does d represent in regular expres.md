@@ -6,7 +6,7 @@
 
 Matches any single digit (0-9).
 
-Example: `\d{3}` matches "123" in "abc123xyz".
+**Example**: `\d{3}` matches "123" in "abc123xyz".
 
 ========== Id ==========  
 5

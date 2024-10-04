@@ -6,7 +6,7 @@
 
 Negative lookbehind. Matches 'x' only if it's not preceded by 'y'.
 
-Example: `(?<!Jack)Sprat` matches "Sprat" in "TomSprat" but not in "JackSprat".
+**Example**: `(?<!Jack)Sprat` matches "Sprat" in "TomSprat" but not in "JackSprat".
 
 ========== Id ==========  
 31

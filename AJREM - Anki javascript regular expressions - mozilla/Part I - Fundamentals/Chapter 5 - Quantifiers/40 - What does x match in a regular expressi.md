@@ -6,7 +6,7 @@
 
 Matches 'x' zero or one time.
 
-Example: `colou?r` matches both "color" and "colour".
+**Example**: `colou?r` matches both "color" and "colour".
 
 ========== Id ==========  
 40

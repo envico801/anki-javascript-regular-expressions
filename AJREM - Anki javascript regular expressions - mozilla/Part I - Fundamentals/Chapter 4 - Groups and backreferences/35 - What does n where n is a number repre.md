@@ -6,7 +6,7 @@
 
 Backreference. Refers to a previous capturing group.
 
-Example: `(la)\1` matches "lala" but not "lama".
+**Example**: `(la)\1` matches "lala" but not "lama".
 
 ========== Id ==========  
 35

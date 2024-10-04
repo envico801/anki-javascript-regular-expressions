@@ -6,7 +6,7 @@
 
 Matches any single character except line breaks.
 
-Example: `h.t` matches "hat", "hot", and "hit", but not "heat".
+**Example**: `h.t` matches "hat", "hot", and "hit", but not "heat".
 
 ========== Id ==========  
 4

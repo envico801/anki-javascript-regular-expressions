@@ -71,7 +71,7 @@ Q:: =============================================
 A:: =============================================  
 A character class. Matches any single character listed in the brackets.
 
-Example: `[aeiou]` matches any vowel in "hello" (e and o).
+**Example**: `[aeiou]` matches any vowel in "hello" (e and o).
 
 Q:: =============================================  
 
@@ -82,7 +82,7 @@ Q:: =============================================
 A:: =============================================  
 A character range. Matches any single character in the specified range.
 
-Example: `[a-z]` matches any lowercase letter in "Hello123" (e, l, l, o).
+**Example**: `[a-z]` matches any lowercase letter in "Hello123" (e, l, l, o).
 
 Q:: =============================================  
 
@@ -93,7 +93,7 @@ Q:: =============================================
 A:: =============================================  
 A negated character class. Matches any single character not listed in the brackets.
 
-Example: `[^aeiou]` matches any non-vowel in "hello" (h, l, l).
+**Example**: `[^aeiou]` matches any non-vowel in "hello" (h, l, l).
 
 Q:: =============================================  
 
@@ -104,7 +104,7 @@ Q:: =============================================
 A:: =============================================  
 Matches any single character except line breaks.
 
-Example: `h.t` matches "hat", "hot", and "hit", but not "heat".
+**Example**: `h.t` matches "hat", "hot", and "hit", but not "heat".
 
 Q:: =============================================  
 
@@ -115,7 +115,7 @@ Q:: =============================================
 A:: =============================================  
 Matches any single digit (0-9).
 
-Example: `\d{3}` matches "123" in "abc123xyz".
+**Example**: `\d{3}` matches "123" in "abc123xyz".
 
 Q:: =============================================  
 
@@ -126,7 +126,7 @@ Q:: =============================================
 A:: =============================================  
 Matches any single non-digit character.
 
-Example: `\D{3}` matches "abc" in "abc123xyz".
+**Example**: `\D{3}` matches "abc" in "abc123xyz".
 
 Q:: =============================================  
 
@@ -137,7 +137,7 @@ Q:: =============================================
 A:: =============================================  
 Matches any word character (letter, digit, or underscore).
 
-Example: `\w+` matches "hello_world123" in "hello_world123!".
+**Example**: `\w+` matches "hello_world123" in "hello_world123!".
 
 Q:: =============================================  
 
@@ -148,7 +148,7 @@ Q:: =============================================
 A:: =============================================  
 Matches any non-word character.
 
-Example: `\W+` matches "!@#" in "abc!@#123".
+**Example**: `\W+` matches "!@#" in "abc!@#123".
 
 Q:: =============================================  
 
@@ -159,7 +159,7 @@ Q:: =============================================
 A:: =============================================  
 Matches any whitespace character (space, tab, newline).
 
-Example: `a\sb` matches "a b" in "a b c".
+**Example**: `a\sb` matches "a b" in "a b c".
 
 Q:: =============================================  
 
@@ -170,7 +170,7 @@ Q:: =============================================
 A:: =============================================  
 Matches any non-whitespace character.
 
-Example: `\S+` matches "hello" and "world" in "hello world".
+**Example**: `\S+` matches "hello" and "world" in "hello world".
 
 Q:: =============================================  
 
@@ -181,7 +181,7 @@ Q:: =============================================
 A:: =============================================  
 Matches a horizontal tab character.
 
-Example: `a\tb` matches "a    b" (with a tab between a and b).
+**Example**: `a\tb` matches "a    b" (with a tab between a and b).
 
 Q:: =============================================  
 
@@ -192,7 +192,7 @@ Q:: =============================================
 A:: =============================================  
 Matches a carriage return character.
 
-Example: `a\rb` matches "a" and "b" on separate lines in Windows text files.
+**Example**: `a\rb` matches "a" and "b" on separate lines in Windows text files.
 
 Q:: =============================================  
 
@@ -203,7 +203,7 @@ Q:: =============================================
 A:: =============================================  
 Matches a line feed (new line) character.
 
-Example: `hello\nworld` matches "hello" and "world" on separate lines.
+**Example**: `hello\nworld` matches "hello" and "world" on separate lines.
 
 Q:: =============================================  
 
@@ -214,7 +214,7 @@ Q:: =============================================
 A:: =============================================  
 Matches a vertical tab character.
 
-Example: `a\vb` matches "a" and "b" separated by a vertical tab.
+**Example**: `a\vb` matches "a" and "b" separated by a vertical tab.
 
 Q:: =============================================  
 
@@ -225,7 +225,7 @@ Q:: =============================================
 A:: =============================================  
 Matches a form feed character.
 
-Example: `page1\fpage2` matches "page1" and "page2" on separate form feed-separated pages.
+**Example**: `page1\fpage2` matches "page1" and "page2" on separate form feed-separated pages.
 
 Q:: =============================================  
 
@@ -236,7 +236,7 @@ Q:: =============================================
 A:: =============================================  
 Matches a backspace character.
 
-Example: `abc[\b]` matches "ab" in "abc\b" (where \b is a backspace).
+**Example**: `abc[\b]def` matches "abc" followed by a backspace character, then "def".
 
 Q:: =============================================  
 
@@ -247,7 +247,7 @@ Q:: =============================================
 A:: =============================================  
 Matches a NULL character.
 
-Example: `abc\0xyz` matches "abc" followed by a NULL character, then "xyz".
+**Example**: `abc\0xyz` matches "abc" followed by a NULL character, then "xyz".
 
 Q:: =============================================  
 
@@ -258,7 +258,7 @@ Q:: =============================================
 A:: =============================================  
 Matches a control character, where X is a letter A-Z.
 
-Example: `\cM` matches a carriage return (Ctrl+M).
+**Example**: `\cM` matches a carriage return (Ctrl+M).
 
 Q:: =============================================  
 
@@ -269,7 +269,7 @@ Q:: =============================================
 A:: =============================================  
 Matches a character with the hex code hh (two hex digits).
 
-Example: `\x41` matches "A" (ASCII code 41 in hex).
+**Example**: `\x41` matches "A" (ASCII code 41 in hex).
 
 Q:: =============================================  
 
@@ -280,7 +280,7 @@ Q:: =============================================
 A:: =============================================  
 Matches a Unicode character with the code point hhhh (four hex digits).
 
-Example: `\u00A9` matches the copyright symbol ©.
+**Example**: `\u00A9` matches the copyright symbol ©.
 
 Q:: =============================================  
 
@@ -291,7 +291,7 @@ Q:: =============================================
 A:: =============================================  
 Escapes a special character or introduces a special sequence.
 
-Example: `\.` matches a literal dot, while `.` matches any character.
+**Example**: `\.` matches a literal dot, while `.` matches any character.
 
 Q:: =============================================  
 
@@ -302,7 +302,7 @@ Q:: =============================================
 A:: =============================================  
 Creates a disjunction, matching either of the alternatives it separates.
 
-Example: `cat|dog` matches either "cat" or "dog" in a string.
+**Example**: `cat|dog` matches either "cat" or "dog" in a string.
 
 #### Chapter 2 - Assertions
 
@@ -315,7 +315,7 @@ Q:: =============================================
 A:: =============================================  
 Special patterns that match positions rather than characters.
 
-Example: `^` matches the start of a line, `$` matches the end of a line.
+**Example**: `^` matches the start of a line, `$` matches the end of a line.
 
 Q:: =============================================  
 
@@ -326,7 +326,7 @@ Q:: =============================================
 A:: =============================================  
 Matches the beginning of the input.
 
-Example: `^Hello` matches "Hello" only at the start of a string.
+**Example**: `^Hello` matches "Hello" only at the start of a string.
 
 Q:: =============================================  
 
@@ -337,7 +337,7 @@ Q:: =============================================
 A:: =============================================  
 Matches the end of the input.
 
-Example: `world$` matches "world" only at the end of a string.
+**Example**: `world$` matches "world" only at the end of a string.
 
 Q:: =============================================  
 
@@ -348,7 +348,7 @@ Q:: =============================================
 A:: =============================================  
 Matches a word boundary (position between a word and non-word character).
 
-Example: `\bcat\b` matches "cat" in "The cat sat", but not in "category".
+**Example**: `\bcat\b` matches "cat" in "The cat sat", but not in "category".
 
 Q:: =============================================  
 
@@ -359,7 +359,7 @@ Q:: =============================================
 A:: =============================================  
 Matches a non-word boundary.
 
-Example: `\Bcat\B` matches "cat" in "category", but not in "The cat sat".
+**Example**: `\Bcat\B` matches "cat" in "category", but not in "The cat sat".
 
 #### Chapter 3 - Other assertions
 
@@ -372,7 +372,7 @@ Q:: =============================================
 A:: =============================================  
 Positive lookahead. Matches 'x' only if it's followed by 'y'.
 
-Example: `Jack(?=Sprat)` matches "Jack" in "JackSprat" but not in "JackFrost".
+**Example**: `Jack(?=Sprat)` matches "Jack" in "JackSprat" but not in "JackFrost".
 
 Q:: =============================================  
 
@@ -383,7 +383,7 @@ Q:: =============================================
 A:: =============================================  
 Negative lookahead. Matches 'x' only if it's not followed by 'y'.
 
-Example: `Jack(?!Sprat)` matches "Jack" in "JackFrost" but not in "JackSprat".
+**Example**: `Jack(?!Sprat)` matches "Jack" in "JackFrost" but not in "JackSprat".
 
 Q:: =============================================  
 
@@ -394,7 +394,7 @@ Q:: =============================================
 A:: =============================================  
 Positive lookbehind. Matches 'x' only if it's preceded by 'y'.
 
-Example: `(?<=Jack)Sprat` matches "Sprat" in "JackSprat" but not in "TomSprat".
+**Example**: `(?<=Jack)Sprat` matches "Sprat" in "JackSprat" but not in "TomSprat".
 
 Q:: =============================================  
 
@@ -405,7 +405,7 @@ Q:: =============================================
 A:: =============================================  
 Negative lookbehind. Matches 'x' only if it's not preceded by 'y'.
 
-Example: `(?<!Jack)Sprat` matches "Sprat" in "TomSprat" but not in "JackSprat".
+**Example**: `(?<!Jack)Sprat` matches "Sprat" in "TomSprat" but not in "JackSprat".
 
 #### Chapter 4 - Groups and backreferences
 
@@ -418,7 +418,7 @@ Q:: =============================================
 A:: =============================================  
 Capturing group. Matches and remembers the matched content.
 
-Example: `(foo)bar\1` matches "foobarfoo".
+**Example**: `(foo)bar\1` matches "foobarfoo".
 
 Q:: =============================================  
 
@@ -429,7 +429,7 @@ Q:: =============================================
 A:: =============================================  
 Named capturing group. Matches and stores the content under a specified name.
 
-Example: `(?<year>\d{4})-(?<month>\d{2})-(?<day>\d{2})` captures date parts.
+**Example**: `(?<year>\d{4})-(?<month>\d{2})-(?<day>\d{2})` captures date parts.
 
 Q:: =============================================  
 
@@ -440,7 +440,7 @@ Q:: =============================================
 A:: =============================================  
 Non-capturing group. Groups elements without creating a capture group.
 
-Example: `(?:ab)+` matches one or more repetitions of "ab" without capturing.
+**Example**: `(?:ab)+` matches one or more repetitions of "ab" without capturing.
 
 Q:: =============================================  
 
@@ -451,7 +451,7 @@ Q:: =============================================
 A:: =============================================  
 Backreference. Refers to a previous capturing group.
 
-Example: `(la)\1` matches "lala" but not "lama".
+**Example**: `(la)\1` matches "lala" but not "lama".
 
 Q:: =============================================  
 
@@ -462,7 +462,7 @@ Q:: =============================================
 A:: =============================================  
 Named backreference. Refers to a previous named capturing group.
 
-Example: `(?<word>\w+)\s+\k<word>` matches repeated words.
+**Example**: `(?<word>\w+)\s+\k<word>` matches repeated words.
 
 #### Chapter 5 - Quantifiers
 
@@ -475,7 +475,7 @@ Q:: =============================================
 A:: =============================================  
 Symbols that specify how many times a pattern should match.
 
-Example: `*`, `+`, `?`, and `{n,m}` are common quantifiers.
+**Example**: `*`, `+`, `?`, and `{n,m}` are common quantifiers.
 
 Q:: =============================================  
 
@@ -486,7 +486,7 @@ Q:: =============================================
 A:: =============================================  
 Matches 'x' zero or more times.
 
-Example: `ab*c` matches "ac", "abc", "abbc", "abbbc", etc.
+**Example**: `ab*c` matches "ac", "abc", "abbc", "abbbc", etc.
 
 Q:: =============================================  
 
@@ -497,7 +497,7 @@ Q:: =============================================
 A:: =============================================  
 Matches 'x' one or more times.
 
-Example: `a+` matches "a", "aa", "aaa", etc., but not an empty string.
+**Example**: `a+` matches "a", "aa", "aaa", etc., but not an empty string.
 
 Q:: =============================================  
 
@@ -508,7 +508,7 @@ Q:: =============================================
 A:: =============================================  
 Matches 'x' zero or one time.
 
-Example: `colou?r` matches both "color" and "colour".
+**Example**: `colou?r` matches both "color" and "colour".
 
 Q:: =============================================  
 
@@ -519,7 +519,7 @@ Q:: =============================================
 A:: =============================================  
 Matches exactly 'n' occurrences of 'x'.
 
-Example: `a{3}` matches "aaa" in "baaaam", but not "aa" or "aaaa".
+**Example**: `a{3}` matches "aaa" in "baaaam", but not "aa" or "aaaa".
 
 Q:: =============================================  
 
@@ -530,7 +530,7 @@ Q:: =============================================
 A:: =============================================  
 Matches 'n' or more occurrences of 'x'.
 
-Example: `a{2,}` matches "aa", "aaa", "aaaa", etc., but not "a".
+**Example**: `a{2,}` matches "aa", "aaa", "aaaa", etc., but not "a".
 
 Q:: =============================================  
 
@@ -541,7 +541,7 @@ Q:: =============================================
 A:: =============================================  
 Matches between 'n' and 'm' occurrences of 'x'.
 
-Example: `a{2,4}` matches "aa", "aaa", and "aaaa", but not "a" or "aaaaa".
+**Example**: `a{2,4}` matches "aa", "aaa", and "aaaa", but not "a" or "aaaaa".
 
 Q:: =============================================  
 
@@ -552,7 +552,7 @@ Q:: =============================================
 A:: =============================================  
 Makes the quantifier non-greedy, matching as few characters as possible.
 
-Example: `.*?` in `<.*?>` matches "<foo>" in "<foo><bar>", not "<foo><bar>".
+**Example**: `a.*?b` matches "ab" in "abcb", not "abcb".
 
 Q:: =============================================  
 
@@ -563,7 +563,7 @@ Q:: =============================================
 A:: =============================================  
 Greedily matches everything between the first '<' and the last '>' in a string.
 
-Example: `/<.*>/` matches "<foo><bar>" in "start <foo><bar> end".
+**Example**: `/<.*>/` matches "`<foo><bar>`" in "start `<foo><bar>` end".
 
 ---
 

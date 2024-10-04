@@ -6,7 +6,7 @@
 
 Matches 'n' or more occurrences of 'x'.
 
-Example: `a{2,}` matches "aa", "aaa", "aaaa", etc., but not "a".
+**Example**: `a{2,}` matches "aa", "aaa", "aaaa", etc., but not "a".
 
 ========== Id ==========  
 42

@@ -6,7 +6,7 @@
 
 Matches a form feed character.
 
-Example: `page1\fpage2` matches "page1" and "page2" on separate form feed-separated pages.
+**Example**: `page1\fpage2` matches "page1" and "page2" on separate form feed-separated pages.
 
 ========== Id ==========  
 15

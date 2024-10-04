@@ -6,7 +6,7 @@
 
 Matches any word character (letter, digit, or underscore).
 
-Example: `\w+` matches "hello_world123" in "hello_world123!".
+**Example**: `\w+` matches "hello_world123" in "hello_world123!".
 
 ========== Id ==========  
 7

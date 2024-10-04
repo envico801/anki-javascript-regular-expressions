@@ -6,7 +6,7 @@
 
 Matches any non-whitespace character.
 
-Example: `\S+` matches "hello" and "world" in "hello world".
+**Example**: `\S+` matches "hello" and "world" in "hello world".
 
 ========== Id ==========  
 10

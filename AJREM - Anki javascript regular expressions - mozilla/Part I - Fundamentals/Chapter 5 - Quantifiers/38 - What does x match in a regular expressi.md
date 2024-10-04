@@ -6,7 +6,7 @@
 
 Matches 'x' zero or more times.
 
-Example: `ab*c` matches "ac", "abc", "abbc", "abbbc", etc.
+**Example**: `ab*c` matches "ac", "abc", "abbc", "abbbc", etc.
 
 ========== Id ==========  
 38

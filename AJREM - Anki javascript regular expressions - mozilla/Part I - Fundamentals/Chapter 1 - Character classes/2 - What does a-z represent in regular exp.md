@@ -6,7 +6,7 @@
 
 A character range. Matches any single character in the specified range.
 
-Example: `[a-z]` matches any lowercase letter in "Hello123" (e, l, l, o).
+**Example**: `[a-z]` matches any lowercase letter in "Hello123" (e, l, l, o).
 
 ========== Id ==========  
 2

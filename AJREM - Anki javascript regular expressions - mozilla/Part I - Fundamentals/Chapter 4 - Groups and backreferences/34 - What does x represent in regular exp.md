@@ -6,7 +6,7 @@
 
 Non-capturing group. Groups elements without creating a capture group.
 
-Example: `(?:ab)+` matches one or more repetitions of "ab" without capturing.
+**Example**: `(?:ab)+` matches one or more repetitions of "ab" without capturing.
 
 ========== Id ==========  
 34

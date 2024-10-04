@@ -6,7 +6,7 @@
 
 Matches a NULL character.
 
-Example: `abc\0xyz` matches "abc" followed by a NULL character, then "xyz".
+**Example**: `abc\0xyz` matches "abc" followed by a NULL character, then "xyz".
 
 ========== Id ==========  
 17

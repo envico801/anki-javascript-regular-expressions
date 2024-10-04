@@ -6,7 +6,7 @@
 
 Matches a word boundary (position between a word and non-word character).
 
-Example: `\bcat\b` matches "cat" in "The cat sat", but not in "category".
+**Example**: `\bcat\b` matches "cat" in "The cat sat", but not in "category".
 
 ========== Id ==========  
 26

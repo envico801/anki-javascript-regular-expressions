@@ -6,7 +6,7 @@
 
 Negative lookahead. Matches 'x' only if it's not followed by 'y'.
 
-Example: `Jack(?!Sprat)` matches "Jack" in "JackFrost" but not in "JackSprat".
+**Example**: `Jack(?!Sprat)` matches "Jack" in "JackFrost" but not in "JackSprat".
 
 ========== Id ==========  
 29

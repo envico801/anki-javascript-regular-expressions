@@ -6,7 +6,7 @@
 
 Matches a control character, where X is a letter A-Z.
 
-Example: `\cM` matches a carriage return (Ctrl+M).
+**Example**: `\cM` matches a carriage return (Ctrl+M).
 
 ========== Id ==========  
 18

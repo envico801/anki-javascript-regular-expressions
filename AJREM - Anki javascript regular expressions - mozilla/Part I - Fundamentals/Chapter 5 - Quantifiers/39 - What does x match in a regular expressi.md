@@ -6,7 +6,7 @@
 
 Matches 'x' one or more times.
 
-Example: `a+` matches "a", "aa", "aaa", etc., but not an empty string.
+**Example**: `a+` matches "a", "aa", "aaa", etc., but not an empty string.
 
 ========== Id ==========  
 39

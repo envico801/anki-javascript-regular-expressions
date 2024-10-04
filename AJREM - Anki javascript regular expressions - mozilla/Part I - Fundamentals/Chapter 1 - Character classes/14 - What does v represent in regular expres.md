@@ -6,7 +6,7 @@
 
 Matches a vertical tab character.
 
-Example: `a\vb` matches "a" and "b" separated by a vertical tab.
+**Example**: `a\vb` matches "a" and "b" separated by a vertical tab.
 
 ========== Id ==========  
 14

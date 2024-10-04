@@ -6,7 +6,7 @@
 
 Makes the quantifier non-greedy, matching as few characters as possible.
 
-Example: `.*?` in `<.*?>` matches "<foo>" in "<foo><bar>", not "<foo><bar>".
+**Example**: `a.*?b` matches "ab" in "abcb", not "abcb".
 
 ========== Id ==========  
 44

@@ -6,7 +6,7 @@
 
 Matches any single non-digit character.
 
-Example: `\D{3}` matches "abc" in "abc123xyz".
+**Example**: `\D{3}` matches "abc" in "abc123xyz".
 
 ========== Id ==========  
 6

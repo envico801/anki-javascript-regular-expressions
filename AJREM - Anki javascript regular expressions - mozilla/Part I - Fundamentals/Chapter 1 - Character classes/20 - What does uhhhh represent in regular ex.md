@@ -6,7 +6,7 @@
 
 Matches a Unicode character with the code point hhhh (four hex digits).
 
-Example: `\u00A9` matches the copyright symbol ©.
+**Example**: `\u00A9` matches the copyright symbol ©.
 
 ========== Id ==========  
 20

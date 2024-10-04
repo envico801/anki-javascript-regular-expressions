@@ -6,7 +6,7 @@
 
 Capturing group. Matches and remembers the matched content.
 
-Example: `(foo)bar\1` matches "foobarfoo".
+**Example**: `(foo)bar\1` matches "foobarfoo".
 
 ========== Id ==========  
 32

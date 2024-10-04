@@ -6,7 +6,7 @@
 
 Matches the end of the input.
 
-Example: `world$` matches "world" only at the end of a string.
+**Example**: `world$` matches "world" only at the end of a string.
 
 ========== Id ==========  
 25

@@ -6,7 +6,7 @@
 
 Named backreference. Refers to a previous named capturing group.
 
-Example: `(?<word>\w+)\s+\k<word>` matches repeated words.
+**Example**: `(?<word>\w+)\s+\k<word>` matches repeated words.
 
 ========== Id ==========  
 36

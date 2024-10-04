@@ -6,7 +6,7 @@
 
 Matches a backspace character.
 
-Example: `abc[\b]` matches "ab" in "abc\b" (where \b is a backspace).
+**Example**: `abc[\b]def` matches "abc" followed by a backspace character, then "def".
 
 ========== Id ==========  
 16

@@ -6,7 +6,7 @@
 
 Creates a disjunction, matching either of the alternatives it separates.
 
-Example: `cat|dog` matches either "cat" or "dog" in a string.
+**Example**: `cat|dog` matches either "cat" or "dog" in a string.
 
 ========== Id ==========  
 22

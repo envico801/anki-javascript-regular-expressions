@@ -6,7 +6,7 @@
 
 Special patterns that match positions rather than characters.
 
-Example: `^` matches the start of a line, `$` matches the end of a line.
+**Example**: `^` matches the start of a line, `$` matches the end of a line.
 
 ========== Id ==========  
 23

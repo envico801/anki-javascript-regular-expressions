@@ -6,7 +6,7 @@
 
 Matches a carriage return character.
 
-Example: `a\rb` matches "a" and "b" on separate lines in Windows text files.
+**Example**: `a\rb` matches "a" and "b" on separate lines in Windows text files.
 
 ========== Id ==========  
 12

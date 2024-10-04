@@ -6,7 +6,7 @@
 
 Matches a line feed (new line) character.
 
-Example: `hello\nworld` matches "hello" and "world" on separate lines.
+**Example**: `hello\nworld` matches "hello" and "world" on separate lines.
 
 ========== Id ==========  
 13

@@ -6,7 +6,7 @@
 
 Matches between 'n' and 'm' occurrences of 'x'.
 
-Example: `a{2,4}` matches "aa", "aaa", and "aaaa", but not "a" or "aaaaa".
+**Example**: `a{2,4}` matches "aa", "aaa", and "aaaa", but not "a" or "aaaaa".
 
 ========== Id ==========  
 43

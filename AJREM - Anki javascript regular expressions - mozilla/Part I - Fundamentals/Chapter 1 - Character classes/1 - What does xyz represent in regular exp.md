@@ -6,7 +6,7 @@
 
 A character class. Matches any single character listed in the brackets.
 
-Example: `[aeiou]` matches any vowel in "hello" (e and o).
+**Example**: `[aeiou]` matches any vowel in "hello" (e and o).
 
 ========== Id ==========  
 1

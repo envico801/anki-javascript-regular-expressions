@@ -6,7 +6,7 @@
 
 Named capturing group. Matches and stores the content under a specified name.
 
-Example: `(?<year>\d{4})-(?<month>\d{2})-(?<day>\d{2})` captures date parts.
+**Example**: `(?<year>\d{4})-(?<month>\d{2})-(?<day>\d{2})` captures date parts.
 
 ========== Id ==========  
 33
