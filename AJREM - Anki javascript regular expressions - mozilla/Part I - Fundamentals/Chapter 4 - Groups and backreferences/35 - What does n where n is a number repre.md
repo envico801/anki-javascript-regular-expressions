@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Backreference. Refers to a previous capturing group.
+Backreference. **Refers to a previous capturing group**.
 
-**Example**: `(la)\1` matches "lala" but not "lama".
+**Example**: `(la)\1` matches "_lala_" but not "_lama_".
 
 ========== Id ==========  
 35

@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Matches any non-whitespace character.
+**Matches any non-whitespace character**.
 
-**Example**: `\S+` matches "hello" and "world" in "hello world".
+**Example**: `\S+` matches "_hello_" and "_world_" in "_hello world_".
 
 ========== Id ==========  
 10

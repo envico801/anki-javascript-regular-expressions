@@ -4,7 +4,7 @@
 
 ========== Answer ==========  
 
-Matches a control character, where X is a letter A-Z.
+**Matches a control character, where X is a letter A-Z**.
 
 **Example**: `\cM` matches a carriage return (Ctrl+M).
 

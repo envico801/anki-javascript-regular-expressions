@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Matches a carriage return character.
+**Matches a carriage return character**.
 
-**Example**: `a\rb` matches "a" and "b" on separate lines in Windows text files.
+**Example**: `a\rb` matches "_a_" and "_b_" on separate lines in Windows text files.
 
 ========== Id ==========  
 12

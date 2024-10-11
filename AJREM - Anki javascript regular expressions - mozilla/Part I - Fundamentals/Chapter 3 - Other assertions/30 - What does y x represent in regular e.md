@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Positive lookbehind. Matches 'x' only if it's preceded by 'y'.
+Positive lookbehind. **Matches '_x_' only if it's preceded by '_y_'**.
 
-**Example**: `(?<=Jack)Sprat` matches "Sprat" in "JackSprat" but not in "TomSprat".
+**Example**: `(?<=Jack)Sprat` matches "_Sprat_" in "_JackSprat_" but not in "_TomSprat_".
 
 ========== Id ==========  
 30

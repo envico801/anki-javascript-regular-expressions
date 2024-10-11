@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Matches any single character except line breaks.
+**Matches any single character except line breaks**.
 
-**Example**: `h.t` matches "hat", "hot", and "hit", but not "heat".
+**Example**: `h.t` matches "_hat_", "_hot_", and "_hit_", but not "_heat_".
 
 ========== Id ==========  
 4

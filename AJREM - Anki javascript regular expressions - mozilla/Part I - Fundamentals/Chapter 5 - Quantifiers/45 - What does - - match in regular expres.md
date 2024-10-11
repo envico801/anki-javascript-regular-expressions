@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Greedily matches everything between the first '<' and the last '>' in a string.
+Greedily matches everything between the first '_<_' and the last '_>_' in a string.
 
-**Example**: `/<.*>/` matches "`<foo><bar>`" in "start `<foo><bar>` end".
+**Example**: `/<.*>/` matches "_`<foo><bar>`_" in "_start `<foo><bar>` end_".
 
 ========== Id ==========  
 45

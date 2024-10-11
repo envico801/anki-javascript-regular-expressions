@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Matches any word character (letter, digit, or underscore).
+**Matches any word character (letter, digit, or underscore)**.
 
-**Example**: `\w+` matches "hello_world123" in "hello_world123!".
+**Example**: `\w+` matches "_hello_world123_" in "_hello_world123!_".
 
 ========== Id ==========  
 7

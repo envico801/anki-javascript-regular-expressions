@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Matches a backspace character.
+**Matches a backspace character**.
 
-**Example**: `abc[\b]def` matches "abc" followed by a backspace character, then "def".
+**Example**: `abc[\b]def` matches "_abc_" followed by a backspace character, then "_def_".
 
 ========== Id ==========  
 16

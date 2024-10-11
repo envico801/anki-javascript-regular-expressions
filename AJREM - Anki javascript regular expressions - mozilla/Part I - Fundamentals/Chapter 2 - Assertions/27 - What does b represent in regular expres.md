@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Matches a non-word boundary.
+**Matches a non-word boundary**.
 
-**Example**: `\Bcat\B` matches "cat" in "category", but not in "The cat sat".
+**Example**: `\Bcat\B` matches "_cat_" in "_category_", but not in "_The cat sat_".
 
 ========== Id ==========  
 27

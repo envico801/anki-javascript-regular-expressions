@@ -4,7 +4,7 @@
 
 ========== Answer ==========  
 
-Symbols that specify how many times a pattern should match.
+**Symbols that specify how many times a pattern should match**.
 
 **Example**: `*`, `+`, `?`, and `{n,m}` are common quantifiers.
 

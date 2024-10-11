@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Matches the beginning of the input.
+**Matches the beginning of the input**.
 
-**Example**: `^Hello` matches "Hello" only at the start of a string.
+**Example**: `^Hello` matches "_Hello_" only at the start of a string.
 
 ========== Id ==========  
 24

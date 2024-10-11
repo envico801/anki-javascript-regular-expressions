@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Matches a NULL character.
+**Matches a NULL character**.
 
-**Example**: `abc\0xyz` matches "abc" followed by a NULL character, then "xyz".
+**Example**: `abc\0xyz` matches "_abc_" followed by a NULL character, then "_xyz_".
 
 ========== Id ==========  
 17

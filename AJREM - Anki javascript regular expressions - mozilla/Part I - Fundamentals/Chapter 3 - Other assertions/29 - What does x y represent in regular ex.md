@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Negative lookahead. Matches 'x' only if it's not followed by 'y'.
+Negative lookahead. **Matches '_x_' only if it's not followed by '_y_'**.
 
-**Example**: `Jack(?!Sprat)` matches "Jack" in "JackFrost" but not in "JackSprat".
+**Example**: `Jack(?!Sprat)` matches "_Jack_" in "_JackFrost_" but not in "_JackSprat_".
 
 ========== Id ==========  
 29

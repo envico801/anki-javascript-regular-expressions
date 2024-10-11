@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Makes the quantifier non-greedy, matching as few characters as possible.
+**Makes the quantifier non-greedy, matching as few characters as possible**.
 
-**Example**: `a.*?b` matches "ab" in "abcb", not "abcb".
+**Example**: `a.*?b` matches "_ab_" in "_abcb_", not "_abcb_".
 
 ========== Id ==========  
 44

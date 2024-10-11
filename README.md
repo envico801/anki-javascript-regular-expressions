@@ -55,6 +55,53 @@
 | [43](#id43) | [What does x n m match in a regular expr](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20I%20-%20Fundamentals/Chapter%205%20-%20Quantifiers/43%20-%20What%20does%20x%20n%20m%20match%20in%20a%20regular%20expr.md) | 1 | 5 |
 | [44](#id44) | [What does adding after a quantifier do](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20I%20-%20Fundamentals/Chapter%205%20-%20Quantifiers/44%20-%20What%20does%20adding%20after%20a%20quantifier%20do.md) | 1 | 5 |
 | [45](#id45) | [What does - - match in regular expres](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20I%20-%20Fundamentals/Chapter%205%20-%20Quantifiers/45%20-%20What%20does%20-%20-%20match%20in%20regular%20expres.md) | 1 | 5 |
+| **-** | **Exercises** | **2** | **-** |
+| **-** | **Exercises > Character classes exercises** | **2** | **1** |
+| [46](#id46) | [Type-in write a character class that mat](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%201%20-%20Character%20classes%20exercises/46%20-%20Type-in%20write%20a%20character%20class%20that%20mat.md) | 2 | 1 |
+| [47](#id47) | [Type-in create a character range that ma](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%201%20-%20Character%20classes%20exercises/47%20-%20Type-in%20create%20a%20character%20range%20that%20ma.md) | 2 | 1 |
+| [48](#id48) | [Type-in write a negated character class](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%201%20-%20Character%20classes%20exercises/48%20-%20Type-in%20write%20a%20negated%20character%20class.md) | 2 | 1 |
+| [49](#id49) | [Type-in use the wildcard character to ma](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%201%20-%20Character%20classes%20exercises/49%20-%20Type-in%20use%20the%20wildcard%20character%20to%20ma.md) | 2 | 1 |
+| [50](#id50) | [Type-in write a regex pattern using d](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%201%20-%20Character%20classes%20exercises/50%20-%20Type-in%20write%20a%20regex%20pattern%20using%20d.md) | 2 | 1 |
+| [51](#id51) | [Type-in create a pattern using d to m](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%201%20-%20Character%20classes%20exercises/51%20-%20Type-in%20create%20a%20pattern%20using%20d%20to%20m.md) | 2 | 1 |
+| [52](#id52) | [Type-in use w to match the username p](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%201%20-%20Character%20classes%20exercises/52%20-%20Type-in%20use%20w%20to%20match%20the%20username%20p.md) | 2 | 1 |
+| [53](#id53) | [Type-in write a pattern using w to ma](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%201%20-%20Character%20classes%20exercises/53%20-%20Type-in%20write%20a%20pattern%20using%20w%20to%20ma.md) | 2 | 1 |
+| [54](#id54) | [Type-in create a pattern using s to m](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%201%20-%20Character%20classes%20exercises/54%20-%20Type-in%20create%20a%20pattern%20using%20s%20to%20m.md) | 2 | 1 |
+| [55](#id55) | [Type-in use s to match the words in t](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%201%20-%20Character%20classes%20exercises/55%20-%20Type-in%20use%20s%20to%20match%20the%20words%20in%20t.md) | 2 | 1 |
+| [56](#id56) | [Type-in write a regex pattern to match a](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%201%20-%20Character%20classes%20exercises/56%20-%20Type-in%20write%20a%20regex%20pattern%20to%20match%20a.md) | 2 | 1 |
+| [57](#id57) | [Type-in create a regex pattern to match](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%201%20-%20Character%20classes%20exercises/57%20-%20Type-in%20create%20a%20regex%20pattern%20to%20match.md) | 2 | 1 |
+| [58](#id58) | [Type-in write a regex pattern to match a](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%201%20-%20Character%20classes%20exercises/58%20-%20Type-in%20write%20a%20regex%20pattern%20to%20match%20a.md) | 2 | 1 |
+| [59](#id59) | [Type-in create a regex pattern to match](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%201%20-%20Character%20classes%20exercises/59%20-%20Type-in%20create%20a%20regex%20pattern%20to%20match.md) | 2 | 1 |
+| [60](#id60) | [Type-in write a regex pattern to match a](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%201%20-%20Character%20classes%20exercises/60%20-%20Type-in%20write%20a%20regex%20pattern%20to%20match%20a.md) | 2 | 1 |
+| [61](#id61) | [Type-in create a regex pattern to match](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%201%20-%20Character%20classes%20exercises/61%20-%20Type-in%20create%20a%20regex%20pattern%20to%20match.md) | 2 | 1 |
+| [62](#id62) | [Type-in write a regex pattern to match a](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%201%20-%20Character%20classes%20exercises/62%20-%20Type-in%20write%20a%20regex%20pattern%20to%20match%20a.md) | 2 | 1 |
+| [63](#id63) | [Type-in create a regex pattern to match](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%201%20-%20Character%20classes%20exercises/63%20-%20Type-in%20create%20a%20regex%20pattern%20to%20match.md) | 2 | 1 |
+| [64](#id64) | [Type-in write a regex pattern to match a](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%201%20-%20Character%20classes%20exercises/64%20-%20Type-in%20write%20a%20regex%20pattern%20to%20match%20a.md) | 2 | 1 |
+| [65](#id65) | [Type-in create a regex pattern that matc](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%201%20-%20Character%20classes%20exercises/65%20-%20Type-in%20create%20a%20regex%20pattern%20that%20matc.md) | 2 | 1 |
+| **-** | **Exercises > Assertions exercises** | **2** | **2** |
+| [66](#id66) | [Type-in write a regex pattern using an a](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%202%20-%20Assertions%20exercises/66%20-%20Type-in%20write%20a%20regex%20pattern%20using%20an%20a.md) | 2 | 2 |
+| [67](#id67) | [Type-in create a regex pattern to match](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%202%20-%20Assertions%20exercises/67%20-%20Type-in%20create%20a%20regex%20pattern%20to%20match.md) | 2 | 2 |
+| [68](#id68) | [Type-in write a regex pattern to match t](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%202%20-%20Assertions%20exercises/68%20-%20Type-in%20write%20a%20regex%20pattern%20to%20match%20t.md) | 2 | 2 |
+| [69](#id69) | [Type-in create a regex pattern to match](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%202%20-%20Assertions%20exercises/69%20-%20Type-in%20create%20a%20regex%20pattern%20to%20match.md) | 2 | 2 |
+| **-** | **Exercises > Other assertions exercises** | **2** | **3** |
+| [70](#id70) | [Type-in write a regex pattern using posi](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%203%20-%20Other%20assertions%20exercises/70%20-%20Type-in%20write%20a%20regex%20pattern%20using%20posi.md) | 2 | 3 |
+| [71](#id71) | [Type-in create a regex pattern using neg](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%203%20-%20Other%20assertions%20exercises/71%20-%20Type-in%20create%20a%20regex%20pattern%20using%20neg.md) | 2 | 3 |
+| [72](#id72) | [Type-in write a regex pattern using posi](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%203%20-%20Other%20assertions%20exercises/72%20-%20Type-in%20write%20a%20regex%20pattern%20using%20posi.md) | 2 | 3 |
+| [73](#id73) | [Type-in write a regex pattern using nega](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%203%20-%20Other%20assertions%20exercises/73%20-%20Type-in%20write%20a%20regex%20pattern%20using%20nega.md) | 2 | 3 |
+| **-** | **Exercises > Groups and backreferences exercises** | **2** | **4** |
+| [74](#id74) | [Type-in create a regex pattern with a ca](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%204%20-%20Groups%20and%20backreferences%20exercises/74%20-%20Type-in%20create%20a%20regex%20pattern%20with%20a%20ca.md) | 2 | 4 |
+| [75](#id75) | [Type-in write a regex pattern using a na](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%204%20-%20Groups%20and%20backreferences%20exercises/75%20-%20Type-in%20write%20a%20regex%20pattern%20using%20a%20na.md) | 2 | 4 |
+| [76](#id76) | [Type-in create a regex pattern using a n](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%204%20-%20Groups%20and%20backreferences%20exercises/76%20-%20Type-in%20create%20a%20regex%20pattern%20using%20a%20n.md) | 2 | 4 |
+| [77](#id77) | [Type-in write a regex pattern using a ba](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%204%20-%20Groups%20and%20backreferences%20exercises/77%20-%20Type-in%20write%20a%20regex%20pattern%20using%20a%20ba.md) | 2 | 4 |
+| [78](#id78) | [Type-in create a regex pattern using a n](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%204%20-%20Groups%20and%20backreferences%20exercises/78%20-%20Type-in%20create%20a%20regex%20pattern%20using%20a%20n.md) | 2 | 4 |
+| **-** | **Exercises > Quantifiers exercises** | **2** | **5** |
+| [79](#id79) | [Type-in write a regex pattern using a qu](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%205%20-%20Quantifiers%20exercises/79%20-%20Type-in%20write%20a%20regex%20pattern%20using%20a%20qu.md) | 2 | 5 |
+| [80](#id80) | [Type-in create a regex pattern using a q](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%205%20-%20Quantifiers%20exercises/80%20-%20Type-in%20create%20a%20regex%20pattern%20using%20a%20q.md) | 2 | 5 |
+| [81](#id81) | [Type-in write a regex pattern using a qu](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%205%20-%20Quantifiers%20exercises/81%20-%20Type-in%20write%20a%20regex%20pattern%20using%20a%20qu.md) | 2 | 5 |
+| [82](#id82) | [Type-in write a regex pattern to match e](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%205%20-%20Quantifiers%20exercises/82%20-%20Type-in%20write%20a%20regex%20pattern%20to%20match%20e.md) | 2 | 5 |
+| [83](#id83) | [Type-in create a regex pattern to match](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%205%20-%20Quantifiers%20exercises/83%20-%20Type-in%20create%20a%20regex%20pattern%20to%20match.md) | 2 | 5 |
+| [84](#id84) | [Type-in write a regex pattern to match b](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%205%20-%20Quantifiers%20exercises/84%20-%20Type-in%20write%20a%20regex%20pattern%20to%20match%20b.md) | 2 | 5 |
+| [85](#id85) | [Type-in create a regex pattern using a n](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%205%20-%20Quantifiers%20exercises/85%20-%20Type-in%20create%20a%20regex%20pattern%20using%20a%20n.md) | 2 | 5 |
+| [86](#id86) | [Type-in write a regex pattern to greedil](./AJREM%20-%20Anki%20javascript%20regular%20expressions%20-%20mozilla/Part%20II%20-%20Exercises/Chapter%205%20-%20Quantifiers%20exercises/86%20-%20Type-in%20write%20a%20regex%20pattern%20to%20greedil.md) | 2 | 5 |
 
 ### Part I - Fundamentals
 
@@ -69,9 +116,9 @@ Q:: =============================================
 ###### ID1
 
 A:: =============================================  
-A character class. Matches any single character listed in the brackets.
+A character class. **Matches any single character listed in the brackets**.
 
-**Example**: `[aeiou]` matches any vowel in "hello" (e and o).
+**Example**: `[aeiou]` matches any vowel in "*hello*" (e and o).
 
 Q:: =============================================  
 
@@ -80,9 +127,9 @@ Q:: =============================================
 ###### ID2
 
 A:: =============================================  
-A character range. Matches any single character in the specified range.
+A character range. **Matches any single character in the specified range**.
 
-**Example**: `[a-z]` matches any lowercase letter in "Hello123" (e, l, l, o).
+**Example**: `[a-z]` matches any lowercase letter in "*Hello123*" (e, l, l, o).
 
 Q:: =============================================  
 
@@ -91,9 +138,9 @@ Q:: =============================================
 ###### ID3
 
 A:: =============================================  
-A negated character class. Matches any single character not listed in the brackets.
+A negated character class. **Matches any single character not listed in the brackets**.
 
-**Example**: `[^aeiou]` matches any non-vowel in "hello" (h, l, l).
+**Example**: `[^aeiou]` matches any non-vowel in "*hello*" (h, l, l).
 
 Q:: =============================================  
 
@@ -102,9 +149,9 @@ Q:: =============================================
 ###### ID4
 
 A:: =============================================  
-Matches any single character except line breaks.
+**Matches any single character except line breaks**.
 
-**Example**: `h.t` matches "hat", "hot", and "hit", but not "heat".
+**Example**: `h.t` matches "*hat*", "*hot*", and "*hit*", but not "*heat*".
 
 Q:: =============================================  
 
@@ -113,9 +160,9 @@ Q:: =============================================
 ###### ID5
 
 A:: =============================================  
-Matches any single digit (0-9).
+**Matches any single digit (0-9)**.
 
-**Example**: `\d{3}` matches "123" in "abc123xyz".
+**Example**: `\d{3}` matches "*123*" in "*abc123xyz*".
 
 Q:: =============================================  
 
@@ -124,9 +171,9 @@ Q:: =============================================
 ###### ID6
 
 A:: =============================================  
-Matches any single non-digit character.
+**Matches any single non-digit character**.
 
-**Example**: `\D{3}` matches "abc" in "abc123xyz".
+**Example**: `\D{3}` matches "*abc*" in "*abc123xyz*".
 
 Q:: =============================================  
 
@@ -135,9 +182,9 @@ Q:: =============================================
 ###### ID7
 
 A:: =============================================  
-Matches any word character (letter, digit, or underscore).
+**Matches any word character (letter, digit, or underscore)**.
 
-**Example**: `\w+` matches "hello_world123" in "hello_world123!".
+**Example**: `\w+` matches "*hello_world123*" in "*hello_world123!*".
 
 Q:: =============================================  
 
@@ -146,9 +193,9 @@ Q:: =============================================
 ###### ID8
 
 A:: =============================================  
-Matches any non-word character.
+**Matches any non-word character**.
 
-**Example**: `\W+` matches "!@#" in "abc!@#123".
+**Example**: `\W+` matches "*!@#*" in "*abc!@#123*".
 
 Q:: =============================================  
 
@@ -157,9 +204,9 @@ Q:: =============================================
 ###### ID9
 
 A:: =============================================  
-Matches any whitespace character (space, tab, newline).
+**Matches any whitespace character (space, tab, newline)**.
 
-**Example**: `a\sb` matches "a b" in "a b c".
+**Example**: `a\sb` matches "*a b*" in "*a b c*".
 
 Q:: =============================================  
 
@@ -168,9 +215,9 @@ Q:: =============================================
 ###### ID10
 
 A:: =============================================  
-Matches any non-whitespace character.
+**Matches any non-whitespace character**.
 
-**Example**: `\S+` matches "hello" and "world" in "hello world".
+**Example**: `\S+` matches "*hello*" and "*world*" in "*hello world*".
 
 Q:: =============================================  
 
@@ -179,9 +226,9 @@ Q:: =============================================
 ###### ID11
 
 A:: =============================================  
-Matches a horizontal tab character.
+**Matches a horizontal tab character**.
 
-**Example**: `a\tb` matches "a    b" (with a tab between a and b).
+**Example**: `a\tb` matches "*a    b*" (with a tab between a and b).
 
 Q:: =============================================  
 
@@ -190,9 +237,9 @@ Q:: =============================================
 ###### ID12
 
 A:: =============================================  
-Matches a carriage return character.
+**Matches a carriage return character**.
 
-**Example**: `a\rb` matches "a" and "b" on separate lines in Windows text files.
+**Example**: `a\rb` matches "*a*" and "*b*" on separate lines in Windows text files.
 
 Q:: =============================================  
 
@@ -201,9 +248,9 @@ Q:: =============================================
 ###### ID13
 
 A:: =============================================  
-Matches a line feed (new line) character.
+**Matches a line feed (new line) character**.
 
-**Example**: `hello\nworld` matches "hello" and "world" on separate lines.
+**Example**: `hello\nworld` matches "*hello*" and "*world*" on separate lines.
 
 Q:: =============================================  
 
@@ -212,9 +259,9 @@ Q:: =============================================
 ###### ID14
 
 A:: =============================================  
-Matches a vertical tab character.
+**Matches a vertical tab character**.
 
-**Example**: `a\vb` matches "a" and "b" separated by a vertical tab.
+**Example**: `a\vb` matches "*a*" and "*b*" separated by a vertical tab.
 
 Q:: =============================================  
 
@@ -223,9 +270,9 @@ Q:: =============================================
 ###### ID15
 
 A:: =============================================  
-Matches a form feed character.
+**Matches a form feed character**.
 
-**Example**: `page1\fpage2` matches "page1" and "page2" on separate form feed-separated pages.
+**Example**: `page1\fpage2` matches "*page1*" and "*page2*" on separate form feed-separated pages.
 
 Q:: =============================================  
 
@@ -234,9 +281,9 @@ Q:: =============================================
 ###### ID16
 
 A:: =============================================  
-Matches a backspace character.
+**Matches a backspace character**.
 
-**Example**: `abc[\b]def` matches "abc" followed by a backspace character, then "def".
+**Example**: `abc[\b]def` matches "*abc*" followed by a backspace character, then "*def*".
 
 Q:: =============================================  
 
@@ -245,9 +292,9 @@ Q:: =============================================
 ###### ID17
 
 A:: =============================================  
-Matches a NULL character.
+**Matches a NULL character**.
 
-**Example**: `abc\0xyz` matches "abc" followed by a NULL character, then "xyz".
+**Example**: `abc\0xyz` matches "*abc*" followed by a NULL character, then "*xyz*".
 
 Q:: =============================================  
 
@@ -256,7 +303,7 @@ Q:: =============================================
 ###### ID18
 
 A:: =============================================  
-Matches a control character, where X is a letter A-Z.
+**Matches a control character, where X is a letter A-Z**.
 
 **Example**: `\cM` matches a carriage return (Ctrl+M).
 
@@ -267,9 +314,9 @@ Q:: =============================================
 ###### ID19
 
 A:: =============================================  
-Matches a character with the hex code hh (two hex digits).
+**Matches a character with the hex code hh (two hex digits)**.
 
-**Example**: `\x41` matches "A" (ASCII code 41 in hex).
+**Example**: `\x41` matches "*A*" (ASCII code 41 in hex).
 
 Q:: =============================================  
 
@@ -278,7 +325,7 @@ Q:: =============================================
 ###### ID20
 
 A:: =============================================  
-Matches a Unicode character with the code point hhhh (four hex digits).
+**Matches a Unicode character with the code point hhhh (four hex digits)**.
 
 **Example**: `\u00A9` matches the copyright symbol ©.
 
@@ -289,7 +336,7 @@ Q:: =============================================
 ###### ID21
 
 A:: =============================================  
-Escapes a special character or introduces a special sequence.
+**Escapes a special character or introduces a special sequence**.
 
 **Example**: `\.` matches a literal dot, while `.` matches any character.
 
@@ -300,9 +347,9 @@ Q:: =============================================
 ###### ID22
 
 A:: =============================================  
-Creates a disjunction, matching either of the alternatives it separates.
+**Creates a disjunction, matching either of the alternatives it separates**.
 
-**Example**: `cat|dog` matches either "cat" or "dog" in a string.
+**Example**: `cat|dog` matches either "*cat*" or "*dog*" in a string.
 
 #### Chapter 2 - Assertions
 
@@ -313,7 +360,7 @@ Q:: =============================================
 ###### ID23
 
 A:: =============================================  
-Special patterns that match positions rather than characters.
+**Special patterns that match positions rather than characters**.
 
 **Example**: `^` matches the start of a line, `$` matches the end of a line.
 
@@ -324,9 +371,9 @@ Q:: =============================================
 ###### ID24
 
 A:: =============================================  
-Matches the beginning of the input.
+**Matches the beginning of the input**.
 
-**Example**: `^Hello` matches "Hello" only at the start of a string.
+**Example**: `^Hello` matches "*Hello*" only at the start of a string.
 
 Q:: =============================================  
 
@@ -335,9 +382,9 @@ Q:: =============================================
 ###### ID25
 
 A:: =============================================  
-Matches the end of the input.
+**Matches the end of the input**.
 
-**Example**: `world$` matches "world" only at the end of a string.
+**Example**: `world$` matches "*world*" only at the end of a string.
 
 Q:: =============================================  
 
@@ -346,9 +393,9 @@ Q:: =============================================
 ###### ID26
 
 A:: =============================================  
-Matches a word boundary (position between a word and non-word character).
+**Matches a word boundary (position between a word and non-word character)**.
 
-**Example**: `\bcat\b` matches "cat" in "The cat sat", but not in "category".
+**Example**: `\bcat\b` matches "*cat*" in "*The cat sat*", but not in "*category*".
 
 Q:: =============================================  
 
@@ -357,9 +404,9 @@ Q:: =============================================
 ###### ID27
 
 A:: =============================================  
-Matches a non-word boundary.
+**Matches a non-word boundary**.
 
-**Example**: `\Bcat\B` matches "cat" in "category", but not in "The cat sat".
+**Example**: `\Bcat\B` matches "*cat*" in "*category*", but not in "*The cat sat*".
 
 #### Chapter 3 - Other assertions
 
@@ -370,9 +417,9 @@ Q:: =============================================
 ###### ID28
 
 A:: =============================================  
-Positive lookahead. Matches 'x' only if it's followed by 'y'.
+Positive lookahead. **Matches '_x_' only if it's followed by '_y_'**.
 
-**Example**: `Jack(?=Sprat)` matches "Jack" in "JackSprat" but not in "JackFrost".
+**Example**: `Jack(?=Sprat)` matches "*Jack*" in "*JackSprat*" but not in "*JackFrost*".
 
 Q:: =============================================  
 
@@ -381,9 +428,9 @@ Q:: =============================================
 ###### ID29
 
 A:: =============================================  
-Negative lookahead. Matches 'x' only if it's not followed by 'y'.
+Negative lookahead. **Matches '_x_' only if it's not followed by '_y_'**.
 
-**Example**: `Jack(?!Sprat)` matches "Jack" in "JackFrost" but not in "JackSprat".
+**Example**: `Jack(?!Sprat)` matches "*Jack*" in "*JackFrost*" but not in "*JackSprat*".
 
 Q:: =============================================  
 
@@ -392,9 +439,9 @@ Q:: =============================================
 ###### ID30
 
 A:: =============================================  
-Positive lookbehind. Matches 'x' only if it's preceded by 'y'.
+Positive lookbehind. **Matches '_x_' only if it's preceded by '_y_'**.
 
-**Example**: `(?<=Jack)Sprat` matches "Sprat" in "JackSprat" but not in "TomSprat".
+**Example**: `(?<=Jack)Sprat` matches "*Sprat*" in "*JackSprat*" but not in "*TomSprat*".
 
 Q:: =============================================  
 
@@ -403,9 +450,9 @@ Q:: =============================================
 ###### ID31
 
 A:: =============================================  
-Negative lookbehind. Matches 'x' only if it's not preceded by 'y'.
+Negative lookbehind. **Matches '_x_' only if it's not preceded by '_y_'**.
 
-**Example**: `(?<!Jack)Sprat` matches "Sprat" in "TomSprat" but not in "JackSprat".
+**Example**: `(?<!Jack)Sprat` matches "*Sprat*" in "*TomSprat*" but not in "*JackSprat*".
 
 #### Chapter 4 - Groups and backreferences
 
@@ -416,9 +463,9 @@ Q:: =============================================
 ###### ID32
 
 A:: =============================================  
-Capturing group. Matches and remembers the matched content.
+Capturing group. **Matches and remembers the matched content**.
 
-**Example**: `(foo)bar\1` matches "foobarfoo".
+**Example**: `(foo)bar\1` matches "*foobarfoo*".
 
 Q:: =============================================  
 
@@ -427,7 +474,7 @@ Q:: =============================================
 ###### ID33
 
 A:: =============================================  
-Named capturing group. Matches and stores the content under a specified name.
+Named capturing group. **Matches and stores the content under a specified name**.
 
 **Example**: `(?<year>\d{4})-(?<month>\d{2})-(?<day>\d{2})` captures date parts.
 
@@ -438,9 +485,9 @@ Q:: =============================================
 ###### ID34
 
 A:: =============================================  
-Non-capturing group. Groups elements without creating a capture group.
+Non-capturing group. **Groups elements without creating a capture group**.
 
-**Example**: `(?:ab)+` matches one or more repetitions of "ab" without capturing.
+**Example**: `(?:ab)+` matches one or more repetitions of "*ab*" without capturing.
 
 Q:: =============================================  
 
@@ -449,9 +496,9 @@ Q:: =============================================
 ###### ID35
 
 A:: =============================================  
-Backreference. Refers to a previous capturing group.
+Backreference. **Refers to a previous capturing group**.
 
-**Example**: `(la)\1` matches "lala" but not "lama".
+**Example**: `(la)\1` matches "*lala*" but not "*lama*".
 
 Q:: =============================================  
 
@@ -460,7 +507,7 @@ Q:: =============================================
 ###### ID36
 
 A:: =============================================  
-Named backreference. Refers to a previous named capturing group.
+Named backreference. **Refers to a previous named capturing group**.
 
 **Example**: `(?<word>\w+)\s+\k<word>` matches repeated words.
 
@@ -473,7 +520,7 @@ Q:: =============================================
 ###### ID37
 
 A:: =============================================  
-Symbols that specify how many times a pattern should match.
+**Symbols that specify how many times a pattern should match**.
 
 **Example**: `*`, `+`, `?`, and `{n,m}` are common quantifiers.
 
@@ -484,9 +531,9 @@ Q:: =============================================
 ###### ID38
 
 A:: =============================================  
-Matches 'x' zero or more times.
+**Matches '_x_' zero or more times**.
 
-**Example**: `ab*c` matches "ac", "abc", "abbc", "abbbc", etc.
+**Example**: `ab*c` matches "*ac*", "*abc*", "*abbc*", "*abbbc*", etc.
 
 Q:: =============================================  
 
@@ -495,9 +542,9 @@ Q:: =============================================
 ###### ID39
 
 A:: =============================================  
-Matches 'x' one or more times.
+**Matches '_x_' one or more times**.
 
-**Example**: `a+` matches "a", "aa", "aaa", etc., but not an empty string.
+**Example**: `a+` matches "*a*", "*aa*", "*aaa*", etc., but not an empty string.
 
 Q:: =============================================  
 
@@ -506,9 +553,9 @@ Q:: =============================================
 ###### ID40
 
 A:: =============================================  
-Matches 'x' zero or one time.
+**Matches '_x_' zero or one time**.
 
-**Example**: `colou?r` matches both "color" and "colour".
+**Example**: `colou?r` matches both "*color*" and "*colour*".
 
 Q:: =============================================  
 
@@ -517,9 +564,9 @@ Q:: =============================================
 ###### ID41
 
 A:: =============================================  
-Matches exactly 'n' occurrences of 'x'.
+**Matches exactly '_n_' occurrences of '_x_'**.
 
-**Example**: `a{3}` matches "aaa" in "baaaam", but not "aa" or "aaaa".
+**Example**: `a{3}` matches "*aaa*" in "*baaaam*", but not "*aa*" or "*aaaa*".
 
 Q:: =============================================  
 
@@ -528,9 +575,9 @@ Q:: =============================================
 ###### ID42
 
 A:: =============================================  
-Matches 'n' or more occurrences of 'x'.
+**Matches '_n_' or more occurrences of '_x_'**.
 
-**Example**: `a{2,}` matches "aa", "aaa", "aaaa", etc., but not "a".
+**Example**: `a{2,}` matches "*aa*", "*aaa*", "*aaaa*", etc., but not "*a*".
 
 Q:: =============================================  
 
@@ -539,9 +586,9 @@ Q:: =============================================
 ###### ID43
 
 A:: =============================================  
-Matches between 'n' and 'm' occurrences of 'x'.
+**Matches between '_n_' and '_m_' occurrences of '_x_'**.
 
-**Example**: `a{2,4}` matches "aa", "aaa", and "aaaa", but not "a" or "aaaaa".
+**Example**: `a{2,4}` matches "*aa*", "*aaa*", and "*aaaa*", but not "*a*" or "*aaaaa*".
 
 Q:: =============================================  
 
@@ -550,9 +597,9 @@ Q:: =============================================
 ###### ID44
 
 A:: =============================================  
-Makes the quantifier non-greedy, matching as few characters as possible.
+**Makes the quantifier non-greedy, matching as few characters as possible**.
 
-**Example**: `a.*?b` matches "ab" in "abcb", not "abcb".
+**Example**: `a.*?b` matches "*ab*" in "*abcb*", not "*abcb*".
 
 Q:: =============================================  
 
@@ -561,9 +608,390 @@ Q:: =============================================
 ###### ID45
 
 A:: =============================================  
-Greedily matches everything between the first '<' and the last '>' in a string.
+Greedily matches everything between the first '_<_' and the last '_>_' in a string.
 
-**Example**: `/<.*>/` matches "`<foo><bar>`" in "start `<foo><bar>` end".
+**Example**: `/<.*>/` matches "*`<foo><bar>`*" in "*start `<foo><bar>` end*".
+
+### Part II - Exercises
+
+#### Chapter 1 - Character classes exercises
+
+Q:: =============================================  
+
+##### (Type-In) Write a character class that matches the characters '_b_', '_i_', and '_k_' in the string "*The bike is in the parking lot*"
+
+###### ID46
+
+A:: =============================================  
+`[bik]`
+
+Q:: =============================================  
+
+##### (Type-In) Create a character range that matches any uppercase letter in the string "*H3llo W0rld*"
+
+###### ID47
+
+A:: =============================================  
+`[A-Z]`
+
+Q:: =============================================  
+
+##### (Type-In) Write a negated character class that matches any character except '_m_', '_o_', and '_u_' in the string "*The mouse ran under the house*"
+
+###### ID48
+
+A:: =============================================  
+`[^mou]`
+
+Q:: =============================================  
+
+##### (Type-In) Use the wildcard character to match any three-letter word in the string "*The cat and dog sat on the mat*"
+
+###### ID49
+
+A:: =============================================  
+`...`
+
+Q:: =============================================  
+
+##### (Type-In) Write a regex pattern using `\d` to match the area code in the phone number "*(555) 123-4567*"
+
+###### ID50
+
+A:: =============================================  
+`\d{3}`
+
+Q:: =============================================  
+
+##### (Type-In) Create a pattern using `\D` to match the parentheses and space in the phone number "*(555) 123-4567*"
+
+###### ID51
+
+A:: =============================================  
+`\D+`
+
+Q:: =============================================  
+
+##### (Type-In) Use `\w` to match the username part of the email address "*john_doe123@example.com*"
+
+###### ID52
+
+A:: =============================================  
+`\w+`
+
+Q:: =============================================  
+
+##### (Type-In) Write a pattern using `\W` to match the '_@_' symbol and the dot in the email address "*john_doe123@example.com*"
+
+###### ID53
+
+A:: =============================================  
+`\W`
+
+Q:: =============================================  
+
+##### (Type-In) Create a pattern using `\s` to match the spaces in the string "*Hello   World*"
+
+###### ID54
+
+A:: =============================================  
+`\s+`
+
+Q:: =============================================  
+
+##### (Type-In) Use `\S` to match the words in the string "*Hello   World*"
+
+###### ID55
+
+A:: =============================================  
+`\S+`
+
+Q:: =============================================  
+
+##### (Type-In) Write a regex pattern to match a horizontal tab character between '_a_' and '_b_' in the string "*a    b*"
+
+###### ID56
+
+A:: =============================================  
+`\t`
+
+Q:: =============================================  
+
+##### (Type-In) Create a regex pattern to match a carriage return character in a Windows text file, separating "*Hello*" and "*World*"
+
+###### ID57
+
+A:: =============================================  
+`\r`
+
+Q:: =============================================  
+
+##### (Type-In) Write a regex pattern to match a line feed character separating "*First line*" and "*Second line*"
+
+###### ID58
+
+A:: =============================================  
+`\n`
+
+Q:: =============================================  
+
+##### (Type-In) Create a regex pattern to match a vertical tab character between '_X_' and '_Y_' in a string
+
+###### ID59
+
+A:: =============================================  
+`\v`
+
+Q:: =============================================  
+
+##### (Type-In) Write a regex pattern to match a form feed character separating two pages of text
+
+###### ID60
+
+A:: =============================================  
+`\f`
+
+Q:: =============================================  
+
+##### (Type-In) Create a regex pattern to match a backspace character in the middle of the word "*mis take*"
+
+###### ID61
+
+A:: =============================================  
+`[\b]`
+
+Q:: =============================================  
+
+##### (Type-In) Write a regex pattern to match a NULL character between "*start*" and "*end*" in a string
+
+###### ID62
+
+A:: =============================================  
+`\0`
+
+Q:: =============================================  
+
+##### (Type-In) Create a regex pattern to match the control character for a line feed (Ctrl+J) in a string
+
+###### ID63
+
+A:: =============================================  
+`\cJ`
+
+Q:: =============================================  
+
+##### (Type-In) Write a regex pattern to match a literal asterisk (\*) in the string "*2 \* 3 = 6*"
+
+###### ID64
+
+A:: =============================================  
+`\*`
+
+Q:: =============================================  
+
+##### (Type-In) Create a regex pattern that matches either "*yes*" or "*no*" in the string "*Do you agree? yes or no*"
+
+###### ID65
+
+A:: =============================================  
+`yes|no`
+
+#### Chapter 2 - Assertions exercises
+
+Q:: =============================================  
+
+##### (Type-In) Write a regex pattern using an assertion to match "*Hello*" only at the beginning of a line in a multi-line string
+
+###### ID66
+
+A:: =============================================  
+`^Hello`
+
+Q:: =============================================  
+
+##### (Type-In) Create a regex pattern to match "*World*" only at the end of a line in a multi-line string
+
+###### ID67
+
+A:: =============================================  
+`World$`
+
+Q:: =============================================  
+
+##### (Type-In) Write a regex pattern to match the word "*cat*" as a whole word in the string "*The cat sat on the cathedral steps*"
+
+###### ID68
+
+A:: =============================================  
+`\bcat\b`
+
+Q:: =============================================  
+
+##### (Type-In) Create a regex pattern to match "*cat*" when it appears within a larger word in the string "*The cats like to concatenate strings*"
+
+###### ID69
+
+A:: =============================================  
+`\Bcat\B`
+
+#### Chapter 3 - Other assertions exercises
+
+Q:: =============================================  
+
+##### (Type-In) Write a regex pattern using positive lookahead to match "*New*" only when it's followed by "*York*" in the string "*I love New York, but New Jersey is nice too*"
+
+###### ID70
+
+A:: =============================================  
+`New(?=York)`
+
+Q:: =============================================  
+
+##### (Type-In) Create a regex pattern using negative lookahead to match "*New*" only when it's not followed by "*York*" in the string "*I love New York, but New Jersey is nice too*"
+
+###### ID71
+
+A:: =============================================  
+`New(?!York)`
+
+Q:: =============================================  
+
+##### (Type-In) Write a regex pattern using positive lookbehind to match "*York*" only when it's preceded by "*New*" in the string "*I've been to York and New York*"
+
+###### ID72
+
+A:: =============================================  
+`(?<=New)York`
+
+Q:: =============================================  
+
+##### (Type-In) Write a regex pattern using negative lookbehind to match "*book*" only when it's not preceded by "*face*" in the string "*I read a book and updated my facebook*"
+
+###### ID73
+
+A:: =============================================  
+`(?<!face)book`
+
+#### Chapter 4 - Groups and backreferences exercises
+
+Q:: =============================================  
+
+##### (Type-In) Create a regex pattern with a capturing group to match and repeat a word in the string "*The dog chased the cat, but the dog couldn't catch it*"
+
+###### ID74
+
+A:: =============================================  
+`(dog).*\1`
+
+Q:: =============================================  
+
+##### (Type-In) Write a regex pattern using a named capturing group to extract the year from the date format "*2023-05-15*"
+
+###### ID75
+
+A:: =============================================  
+`(?<year>\d{4})-\d{2}-\d{2}`
+
+Q:: =============================================  
+
+##### (Type-In) Create a regex pattern using a non-capturing group to match "*hahaha*" or "*hehehe*" without capturing the repeated syllable
+
+###### ID76
+
+A:: =============================================  
+`(?:ha|he){3}`
+
+Q:: =============================================  
+
+##### (Type-In) Write a regex pattern using a backreference to match repeated digits in the string "*11 22 33 44 55*"
+
+###### ID77
+
+A:: =============================================  
+`(\d)\1`
+
+Q:: =============================================  
+
+##### (Type-In) Create a regex pattern using a named backreference to match repeated words in the string "*The quick quick fox jumps over the lazy dog*"
+
+###### ID78
+
+A:: =============================================  
+`(?<word>\w+)\s+\k<word>`
+
+#### Chapter 5 - Quantifiers exercises
+
+Q:: =============================================  
+
+##### (Type-In) Write a regex pattern using a quantifier to match zero or more occurrences of '_x_' in the string "*axbxxc*"
+
+###### ID79
+
+A:: =============================================  
+`ax*b`
+
+Q:: =============================================  
+
+##### (Type-In) Create a regex pattern using a quantifier to match one or more occurrences of '_z_' in the string "*buzzzz*"
+
+###### ID80
+
+A:: =============================================  
+`buz+`
+
+Q:: =============================================  
+
+##### (Type-In) Write a regex pattern using a quantifier to match zero or one occurrence of '_u_' in both "*color*" and "*colour*"
+
+###### ID81
+
+A:: =============================================  
+`colou?r`
+
+Q:: =============================================  
+
+##### (Type-In) Write a regex pattern to match exactly three consecutive '_a_' characters in the string "*baaaam*"
+
+###### ID82
+
+A:: =============================================  
+`a{3}`
+
+Q:: =============================================  
+
+##### (Type-In) Create a regex pattern to match two or more consecutive '_b_' characters in the string "*abbbbbc*"
+
+###### ID83
+
+A:: =============================================  
+`b{2,}`
+
+Q:: =============================================  
+
+##### (Type-In) Write a regex pattern to match between two and four consecutive '_c_' characters in the string "*acccccd*"
+
+###### ID84
+
+A:: =============================================  
+`c{2,4}`
+
+Q:: =============================================  
+
+##### (Type-In) Create a regex pattern using a non-greedy quantifier to match the shortest possible string starting with '_a_' and ending with '_b_' in "*aabbaabbb*"
+
+###### ID85
+
+A:: =============================================  
+`a.*?b`
+
+Q:: =============================================  
+
+##### (Type-In) Write a regex pattern to greedily match everything between the first '_<_' and the last '_>_' in the string "*start `<foo><bar>` end*"
+
+###### ID86
+
+A:: =============================================  
+`<.*>`
 
 ---
 

@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Matches 'x' zero or one time.
+**Matches '_x_' zero or one time**.
 
-**Example**: `colou?r` matches both "color" and "colour".
+**Example**: `colou?r` matches both "_color_" and "_colour_".
 
 ========== Id ==========  
 40

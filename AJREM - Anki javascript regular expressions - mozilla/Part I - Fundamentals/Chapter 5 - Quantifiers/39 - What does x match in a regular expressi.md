@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Matches 'x' one or more times.
+**Matches '_x_' one or more times**.
 
-**Example**: `a+` matches "a", "aa", "aaa", etc., but not an empty string.
+**Example**: `a+` matches "_a_", "_aa_", "_aaa_", etc., but not an empty string.
 
 ========== Id ==========  
 39

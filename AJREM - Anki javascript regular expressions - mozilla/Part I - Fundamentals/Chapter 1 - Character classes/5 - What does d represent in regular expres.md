@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Matches any single digit (0-9).
+**Matches any single digit (0-9)**.
 
-**Example**: `\d{3}` matches "123" in "abc123xyz".
+**Example**: `\d{3}` matches "_123_" in "_abc123xyz_".
 
 ========== Id ==========  
 5

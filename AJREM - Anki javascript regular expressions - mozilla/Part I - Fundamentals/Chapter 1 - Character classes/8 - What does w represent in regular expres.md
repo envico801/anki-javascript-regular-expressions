@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Matches any non-word character.
+**Matches any non-word character**.
 
-**Example**: `\W+` matches "!@#" in "abc!@#123".
+**Example**: `\W+` matches "_!@#_" in "_abc!@#123_".
 
 ========== Id ==========  
 8

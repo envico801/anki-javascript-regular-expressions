@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Matches exactly 'n' occurrences of 'x'.
+**Matches exactly '_n_' occurrences of '_x_'**.
 
-**Example**: `a{3}` matches "aaa" in "baaaam", but not "aa" or "aaaa".
+**Example**: `a{3}` matches "_aaa_" in "_baaaam_", but not "_aa_" or "_aaaa_".
 
 ========== Id ==========  
 41

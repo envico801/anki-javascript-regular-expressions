@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Creates a disjunction, matching either of the alternatives it separates.
+**Creates a disjunction, matching either of the alternatives it separates**.
 
-**Example**: `cat|dog` matches either "cat" or "dog" in a string.
+**Example**: `cat|dog` matches either "_cat_" or "_dog_" in a string.
 
 ========== Id ==========  
 22

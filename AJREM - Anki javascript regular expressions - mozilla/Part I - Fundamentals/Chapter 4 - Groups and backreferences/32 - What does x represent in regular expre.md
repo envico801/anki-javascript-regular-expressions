@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Capturing group. Matches and remembers the matched content.
+Capturing group. **Matches and remembers the matched content**.
 
-**Example**: `(foo)bar\1` matches "foobarfoo".
+**Example**: `(foo)bar\1` matches "_foobarfoo_".
 
 ========== Id ==========  
 32

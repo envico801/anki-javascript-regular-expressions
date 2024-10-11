@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Matches between 'n' and 'm' occurrences of 'x'.
+**Matches between '_n_' and '_m_' occurrences of '_x_'**.
 
-**Example**: `a{2,4}` matches "aa", "aaa", and "aaaa", but not "a" or "aaaaa".
+**Example**: `a{2,4}` matches "_aa_", "_aaa_", and "_aaaa_", but not "_a_" or "_aaaaa_".
 
 ========== Id ==========  
 43

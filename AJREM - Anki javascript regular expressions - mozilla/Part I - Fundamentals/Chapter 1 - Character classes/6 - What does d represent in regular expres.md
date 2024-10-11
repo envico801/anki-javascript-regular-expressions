@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Matches any single non-digit character.
+**Matches any single non-digit character**.
 
-**Example**: `\D{3}` matches "abc" in "abc123xyz".
+**Example**: `\D{3}` matches "_abc_" in "_abc123xyz_".
 
 ========== Id ==========  
 6

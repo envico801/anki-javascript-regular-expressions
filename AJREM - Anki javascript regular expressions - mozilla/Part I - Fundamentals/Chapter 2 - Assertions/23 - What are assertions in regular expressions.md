@@ -4,7 +4,7 @@
 
 ========== Answer ==========  
 
-Special patterns that match positions rather than characters.
+**Special patterns that match positions rather than characters**.
 
 **Example**: `^` matches the start of a line, `$` matches the end of a line.
 

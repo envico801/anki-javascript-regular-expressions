@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Matches 'x' zero or more times.
+**Matches '_x_' zero or more times**.
 
-**Example**: `ab*c` matches "ac", "abc", "abbc", "abbbc", etc.
+**Example**: `ab*c` matches "_ac_", "_abc_", "_abbc_", "_abbbc_", etc.
 
 ========== Id ==========  
 38

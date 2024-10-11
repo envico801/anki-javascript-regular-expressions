@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Matches a horizontal tab character.
+**Matches a horizontal tab character**.
 
-**Example**: `a\tb` matches "a b" (with a tab between a and b).
+**Example**: `a\tb` matches "_a b_" (with a tab between a and b).
 
 ========== Id ==========  
 11

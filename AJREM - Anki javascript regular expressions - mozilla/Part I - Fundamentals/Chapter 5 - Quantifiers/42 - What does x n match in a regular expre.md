@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Matches 'n' or more occurrences of 'x'.
+**Matches '_n_' or more occurrences of '_x_'**.
 
-**Example**: `a{2,}` matches "aa", "aaa", "aaaa", etc., but not "a".
+**Example**: `a{2,}` matches "_aa_", "_aaa_", "_aaaa_", etc., but not "_a_".
 
 ========== Id ==========  
 42

@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Matches a vertical tab character.
+**Matches a vertical tab character**.
 
-**Example**: `a\vb` matches "a" and "b" separated by a vertical tab.
+**Example**: `a\vb` matches "_a_" and "_b_" separated by a vertical tab.
 
 ========== Id ==========  
 14

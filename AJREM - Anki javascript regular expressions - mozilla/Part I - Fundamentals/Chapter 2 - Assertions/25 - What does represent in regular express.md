@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Matches the end of the input.
+**Matches the end of the input**.
 
-**Example**: `world$` matches "world" only at the end of a string.
+**Example**: `world$` matches "_world_" only at the end of a string.
 
 ========== Id ==========  
 25

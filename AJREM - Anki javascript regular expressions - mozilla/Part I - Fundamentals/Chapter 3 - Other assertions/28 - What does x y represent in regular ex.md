@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Positive lookahead. Matches 'x' only if it's followed by 'y'.
+Positive lookahead. **Matches '_x_' only if it's followed by '_y_'**.
 
-**Example**: `Jack(?=Sprat)` matches "Jack" in "JackSprat" but not in "JackFrost".
+**Example**: `Jack(?=Sprat)` matches "_Jack_" in "_JackSprat_" but not in "_JackFrost_".
 
 ========== Id ==========  
 28

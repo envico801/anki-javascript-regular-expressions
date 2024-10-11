@@ -4,7 +4,7 @@
 
 ========== Answer ==========  
 
-Named backreference. Refers to a previous named capturing group.
+Named backreference. **Refers to a previous named capturing group**.
 
 **Example**: `(?<word>\w+)\s+\k<word>` matches repeated words.
 

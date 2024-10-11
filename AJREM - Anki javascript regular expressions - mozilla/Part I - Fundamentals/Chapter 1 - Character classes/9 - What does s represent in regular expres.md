@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Matches any whitespace character (space, tab, newline).
+**Matches any whitespace character (space, tab, newline)**.
 
-**Example**: `a\sb` matches "a b" in "a b c".
+**Example**: `a\sb` matches "_a b_" in "_a b c_".
 
 ========== Id ==========  
 9

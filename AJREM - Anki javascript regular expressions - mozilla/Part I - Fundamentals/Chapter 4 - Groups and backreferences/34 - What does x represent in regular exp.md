@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Non-capturing group. Groups elements without creating a capture group.
+Non-capturing group. **Groups elements without creating a capture group**.
 
-**Example**: `(?:ab)+` matches one or more repetitions of "ab" without capturing.
+**Example**: `(?:ab)+` matches one or more repetitions of "_ab_" without capturing.
 
 ========== Id ==========  
 34

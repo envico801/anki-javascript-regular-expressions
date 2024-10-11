@@ -4,9 +4,9 @@
 
 ========== Answer ==========  
 
-Negative lookbehind. Matches 'x' only if it's not preceded by 'y'.
+Negative lookbehind. **Matches '_x_' only if it's not preceded by '_y_'**.
 
-**Example**: `(?<!Jack)Sprat` matches "Sprat" in "TomSprat" but not in "JackSprat".
+**Example**: `(?<!Jack)Sprat` matches "_Sprat_" in "_TomSprat_" but not in "_JackSprat_".
 
 ========== Id ==========  
 31

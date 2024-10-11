@@ -4,7 +4,7 @@
 
 ========== Answer ==========  
 
-Escapes a special character or introduces a special sequence.
+**Escapes a special character or introduces a special sequence**.
 
 **Example**: `\.` matches a literal dot, while `.` matches any character.
 
